@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:41.709614
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:40
 #+TITLE: 六字大陀羅尼呪經
 #+PROPERTY: CBETA_ID T20n1046
 #+PROPERTY: ID KR6j0245
